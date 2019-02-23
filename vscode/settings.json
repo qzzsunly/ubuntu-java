@@ -1,0 +1,13 @@
+{
+
+    "sync.gist": "ed04b5f189a1dea465e504cc2f77d1c1",
+    "sync.quietSync": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "workbench.colorTheme": "Night Owl",
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe",
+    "files.autoSave": "afterDelay"
+}
