@@ -264,7 +264,7 @@ function vscode {
 	code --install-extension Shan.code-settings-sync
 	mkdir -p ~/.config/Code/User/
 	cp ./vscode/*.json ~/.config/Code/User/
-    chmod -R 777 ~/.config/Code/User/
+    	chmod -R 777 ~/.config/
 }
 
 function idea {
